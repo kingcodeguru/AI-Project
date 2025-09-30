@@ -2,6 +2,8 @@
 
 ## About the project
 
+[**Full project portfolio**](https://docs.google.com/document/d/1AqE1GmoLSi2JsGDwR_rHOaMSdR18RuVNBslziSr0rLs/edit?usp=sharing)  
+
 Few facts about this project:
 * This project was made for a class *"Into to Artificial Intelligence"* (BIU course code 8588981001).
 * The goal of the class is to teach us the math behind deep learning. The goal of the project is to see how it reflect on real life uses.
